@@ -1,0 +1,23 @@
+# Main packages needed for heap algorithms implementation and analysis
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Additional packages for better analysis and testing
+scipy>=1.7.0
+pandas>=1.3.0
+
+# Testing packages
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# For creating notebooks and documentation
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Type checking and code quality
+mypy>=0.910
+dataclasses>=0.8  # For Task class implementation
+
+# Performance profiling (optional)
+memory-profiler>=0.60.0
+line-profiler>=3.3.0
