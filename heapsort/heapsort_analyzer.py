@@ -334,7 +334,7 @@ class HeapSortAnalyzer:
         axes[5].set_visible(False)
         
         plt.tight_layout()
-        plt.savefig('heapsort_comparison.png', dpi=300, bbox_inches='tight')
+        plt.savefig('results/heapsort_comparison.png', dpi=300, bbox_inches='tight')
         plt.show()
     
     def theoretical_analysis_demo(self):

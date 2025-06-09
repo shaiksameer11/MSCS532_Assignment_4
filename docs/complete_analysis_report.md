@@ -2,14 +2,14 @@
 
 ## Execution Summary
 
-**Date:** 2025-06-08 01:03:23
+**Date:** 2025-06-09 17:51:24
 
 ### Algorithm Execution Results
 
 | Algorithm | Status | Execution Time | Output Files |
 |-----------|--------|----------------|--------------|
-| Heapsort | Success | 7.89s | heapsort/results/ |
-| Priority Queue | Success | 6.19s | priority_queue/results/ |
+| Heapsort | Success | 9.77s | heapsort/results/ |
+| Priority Queue | Success | 7.13s | priority_queue/results/ |
 
 ### Key Findings Summary
 

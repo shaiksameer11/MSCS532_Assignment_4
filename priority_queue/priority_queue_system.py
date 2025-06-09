@@ -653,7 +653,7 @@ class PriorityQueueAnalyzer:
         ax4.set_yscale('log')
         
         plt.tight_layout()
-        plt.savefig('priority_queue_analysis.png', dpi=300, bbox_inches='tight')
+        plt.savefig('results/priority_queue_analysis.png', dpi=300, bbox_inches='tight')
         plt.show()
     
     def demonstrate_applications(self):
